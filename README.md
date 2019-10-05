@@ -1,2 +1,2 @@
 # config-repository
-Config Repository to Microservice App
+Config Repository for a Microservice App
